@@ -6,6 +6,7 @@ This project is an example of a procedurally generated 3D world which uses threa
 
 - [Overview](#overview)
 - [Movement Controls](#MovementControls)
+- [Usage](#Usage)
 
 ## Overview
 
@@ -32,3 +33,6 @@ This document outlines the basic movement controls for the project.
 | Right    | D                   |
 | Jump     | Spacebar            |
 | Sprint   | Hold Shift + (W/A/S/D) |
+
+# Usage
+The project is already built so feel free to jsut install download the repository and run the my project.exe file.
